@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time Tracking System - Bangbon DOLE</title>
+<base target="_top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <link rel="icon" href="https://img1.pic.in.th/images/logo-BangBonf60b80e234cdd547.png">
+</head>
 
+<body>
+<div align="center">
+<iframe src="https://script.google.com/macros/s/AKfycbxG_SPbgbjQg5bH7FqhXz_P64t3-P-KXNYOk3A9zUj3-QOX2fqrHpgvrg9TOSOMqOLABw/exec" 
+style="
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 999999;
+    height: 100%;
+  "></iframe>
+</div>
+</body>
+</html>
